@@ -8,6 +8,7 @@ end
 
 def using_pop (array)
   array = ["Africa", "Asia", "North America", "South America", "Europe", "Oceania", "Antarctica"]
-  array.pop
+  array.pop = new_array
+  new_array
   
 end
