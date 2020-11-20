@@ -11,4 +11,4 @@ def using_pop (array)
   new_continents = continents.pop
 end
 
-new_continents
+p new_continents
