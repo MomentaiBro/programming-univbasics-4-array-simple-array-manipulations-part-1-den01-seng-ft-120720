@@ -8,6 +8,5 @@ end
 
 def using_pop (array)
   continents = ["Africa", "Asia", "North America", "South America", "Europe", "Oceania", "Antarctica"]
-  continents.pop
-  continents.pop
+  new_continents = continents.pop
 end
